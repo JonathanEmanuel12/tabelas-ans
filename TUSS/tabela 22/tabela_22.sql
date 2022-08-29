@@ -1224,7 +1224,7 @@ INSERT INTO `ea_procedimentos` (`codigo`, `procedimento`) VALUES
 	(30726131, 'Lesão aguda de ligamento colateral, associada a ligamento cruzado e menisco - tratamento cirúrgico'),
 	(30726140, 'Lesões agudas e/ou luxações de meniscos (1 ou ambos) - tratamento cirúrgico'),
 	(30726158, 'Lesões complexas de joelho (fratura com lesão ligamentar e meniscal) - tratamento cirúrgico'),
-	(30726166, 'Lesões intrínsecas  de  joelho  (lesões  condrais,  osteocondrite dissecante, plica patológica, corpos livres, artrofitose) - tratamento cirúrgico'),
+	(30726166, 'Lesões intrínsecas de joelho (lesões condrais, osteocondrite dissecante, plica patológica, corpos livres, artrofitose) - tratamento cirúrgico'),
 	(30726174, 'Lesões ligamentares agudas - tratamento incruento'),
 	(30726182, 'Lesões ligamentares agudas - tratamento cirúrgico'),
 	(30726190, 'Lesões ligamentares periféricas crônicas - tratamento cirúrgico'),
